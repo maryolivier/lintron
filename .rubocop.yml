@@ -3,3 +3,6 @@ AllCops:
 
 Documentation:
   Enabled: false
+
+Style/TrailingComma:
+  Enabled:false
